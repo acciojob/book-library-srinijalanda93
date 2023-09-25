@@ -27,6 +27,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
+	backround-color:rgb(46, 204, 113);
 }
 .content {
   padding: 0px 20px 0px 20px;
