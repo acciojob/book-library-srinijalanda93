@@ -27,8 +27,9 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-background-color:  rgb(46, 204, 113) /* Updated background color */
+  background-color: rgb(46, 204, 113); /* Corrected background color */
 }
+
 
 .content {
   padding: 0px 20px 0px 20px;
@@ -41,7 +42,7 @@ background-color:  rgb(46, 204, 113) /* Updated background color */
 .content > button {
   padding: 0px 20px 0px 20px;
   border: none;
-  background-color: rgb(46, 204, 113);
+  background-color: rgb(426, 204, 113);
   color: white;
   font-size: 20px;
   height: 30px;
